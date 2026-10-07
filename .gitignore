@@ -1,0 +1,15 @@
+# Claves y secretos
+keys.txt
+keys.txt.pub
+*.pem
+id_*
+
+# Entorno
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.Rhistory
+.DS_Store
+
+# Índices de Obsidian
+*Índice.md
